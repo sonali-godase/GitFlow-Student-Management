@@ -10,5 +10,9 @@ public class Student {
         System.out.println("Name: " + name);
         System.out.println("Roll Number: " + rollNo);
         System.out.println("Department: " + department);
+
+        System.out.println("New Student Feature Added");
+
+        
     }
 }
